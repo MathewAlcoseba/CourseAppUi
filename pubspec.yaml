@@ -1,0 +1,46 @@
+name: namer_app
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 0.0.1+1
+
+environment:
+  sdk: ">=2.19.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  english_words: ^4.0.0
+  provider: ^6.0.0
+  my_app: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/Frame 2.png
+    - images/Frame 3.png
+    - images/Frame 4.png
+    - images/Frame 5.png
+    - images/Frame 6.png
+    - images/Frame 7.png
+    - images/Frame 8.png
+    - images/Rectangle 1.png
+    - images/Mask Group.png
+    - images/Saly-36.png
+    - images/Saly-20.png
+    - images/Saly-21.png
+    - images/Saly-25.png
+    - images/Rectangle 1.png
+    - images/Rectangle 6.png
+    - images/Rectangle 7.png
+    - images/Rectangle 8.png
+    - images/Rectangle 10.png
+    - images/Rectangle 13.png
